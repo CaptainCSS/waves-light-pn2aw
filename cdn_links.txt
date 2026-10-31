@@ -1,0 +1,529 @@
+# COMPANION ASSETS (224 uploaded ONCE per repo at relative paths, NOT multiplied):
+[waves-light-pn2aw] CONTRIBUTING.md -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/CONTRIBUTING.md
+[waves-light-pn2aw] Dockerfile -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/Dockerfile
+[waves-light-pn2aw] LICENSE -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/LICENSE
+[waves-light-pn2aw] Procfile -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/Procfile
+[waves-light-pn2aw] README.md -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/README.md
+[waves-light-pn2aw] TODO.md -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/TODO.md
+[waves-light-pn2aw] app.json -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/app.json
+[waves-light-pn2aw] biome.json -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/biome.json
+[waves-light-pn2aw] config.json -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/config.json
+[waves-light-pn2aw] crowdin.yml -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/crowdin.yml
+[waves-light-pn2aw] docker-compose.yml -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/docker-compose.yml
+[waves-light-pn2aw] ecosystem.config.cjs -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/ecosystem.config.cjs
+[waves-light-pn2aw] locales/README.md -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/locales/README.md
+[waves-light-pn2aw] locales/en.yaml -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/locales/en.yaml
+[waves-light-pn2aw] package.json -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/package.json
+[waves-light-pn2aw] pnpm-lock.yaml -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/pnpm-lock.yaml
+[waves-light-pn2aw] pnpm-workspace.yaml -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/pnpm-workspace.yaml
+[waves-light-pn2aw] private/mirror-links.example.txt -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/private/mirror-links.example.txt
+[waves-light-pn2aw] render.yaml -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/render.yaml
+[waves-light-pn2aw] repl.sh -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/repl.sh
+[waves-light-pn2aw] serve.sh -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/serve.sh
+[waves-light-pn2aw] src/browser/build-modules.d.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/browser/build-modules.d.ts
+[waves-light-pn2aw] src/browser/chain.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/browser/chain.ts
+[waves-light-pn2aw] src/browser/error-page.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/browser/error-page.ts
+[waves-light-pn2aw] src/browser/fingerprint.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/browser/fingerprint.ts
+[waves-light-pn2aw] src/browser/frame-url.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/browser/frame-url.ts
+[waves-light-pn2aw] src/browser/globals.d.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/browser/globals.d.ts
+[waves-light-pn2aw] src/browser/http-cache.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/browser/http-cache.ts
+[waves-light-pn2aw] src/browser/leak-guard.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/browser/leak-guard.ts
+[waves-light-pn2aw] src/browser/proxy-codec.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/browser/proxy-codec.ts
+[waves-light-pn2aw] src/browser/search-url-guard.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/browser/search-url-guard.ts
+[waves-light-pn2aw] src/browser/site-fixes.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/browser/site-fixes.ts
+[waves-light-pn2aw] src/browser/tabs.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/browser/tabs.ts
+[waves-light-pn2aw] src/browser/transport.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/browser/transport.ts
+[waves-light-pn2aw] src/browser/webrtc.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/browser/webrtc.ts
+[waves-light-pn2aw] src/build/dev.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/build/dev.ts
+[waves-light-pn2aw] src/build/fetch-keywords.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/build/fetch-keywords.ts
+[waves-light-pn2aw] src/build/locales.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/build/locales.ts
+[waves-light-pn2aw] src/build/plugin.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/build/plugin.ts
+[waves-light-pn2aw] src/build/render.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/build/render.ts
+[waves-light-pn2aw] src/build/sources.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/build/sources.ts
+[waves-light-pn2aw] src/build/values.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/build/values.ts
+[waves-light-pn2aw] src/client/Document.tsx -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/client/Document.tsx
+[waves-light-pn2aw] src/client/aos.tsx -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/client/aos.tsx
+[waves-light-pn2aw] src/client/components/AntiExfil.tsx -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/client/components/AntiExfil.tsx
+[waves-light-pn2aw] src/client/components/AppButton.tsx -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/client/components/AppButton.tsx
+[waves-light-pn2aw] src/client/components/Challenge.tsx -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/client/components/Challenge.tsx
+[waves-light-pn2aw] src/client/components/Documentation.tsx -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/client/components/Documentation.tsx
+[waves-light-pn2aw] src/client/components/FAQ.tsx -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/client/components/FAQ.tsx
+[waves-light-pn2aw] src/client/components/FingerprintSettings.tsx -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/client/components/FingerprintSettings.tsx
+[waves-light-pn2aw] src/client/components/FontLoader.tsx -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/client/components/FontLoader.tsx
+[waves-light-pn2aw] src/client/components/Footer.tsx -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/client/components/Footer.tsx
+[waves-light-pn2aw] src/client/components/HeadContent.tsx -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/client/components/HeadContent.tsx
+[waves-light-pn2aw] src/client/components/HeadScripts.tsx -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/client/components/HeadScripts.tsx
+[waves-light-pn2aw] src/client/components/Header.tsx -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/client/components/Header.tsx
+[waves-light-pn2aw] src/client/components/LocaleLinks.tsx -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/client/components/LocaleLinks.tsx
+[waves-light-pn2aw] src/client/components/MirrorLinks.tsx -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/client/components/MirrorLinks.tsx
+[waves-light-pn2aw] src/client/components/ProxyPreloads.tsx -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/client/components/ProxyPreloads.tsx
+[waves-light-pn2aw] src/client/components/ProxySettings.tsx -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/client/components/ProxySettings.tsx
+[waves-light-pn2aw] src/client/components/Settings.tsx -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/client/components/Settings.tsx
+[waves-light-pn2aw] src/client/components/SettingsControls.tsx -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/client/components/SettingsControls.tsx
+[waves-light-pn2aw] src/client/components/Terms.tsx -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/client/components/Terms.tsx
+[waves-light-pn2aw] src/client/document-helpers.tsx -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/client/document-helpers.tsx
+[waves-light-pn2aw] src/client/entry.tsx -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/client/entry.tsx
+[waves-light-pn2aw] src/client/faq-search.tsx -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/client/faq-search.tsx
+[waves-light-pn2aw] src/client/pages.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/client/pages.ts
+[waves-light-pn2aw] src/client/pages/Applications.tsx -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/client/pages/Applications.tsx
+[waves-light-pn2aw] src/client/pages/Credits.tsx -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/client/pages/Credits.tsx
+[waves-light-pn2aw] src/client/pages/DocumentationPage.tsx -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/client/pages/DocumentationPage.tsx
+[waves-light-pn2aw] src/client/pages/EntryPoint.tsx -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/client/pages/EntryPoint.tsx
+[waves-light-pn2aw] src/client/pages/FAQPage.tsx -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/client/pages/FAQPage.tsx
+[waves-light-pn2aw] src/client/pages/Home.tsx -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/client/pages/Home.tsx
+[waves-light-pn2aw] src/client/pages/Icons.tsx -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/client/pages/Icons.tsx
+[waves-light-pn2aw] src/client/pages/Loader.tsx -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/client/pages/Loader.tsx
+[waves-light-pn2aw] src/client/pages/NotFound.tsx -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/client/pages/NotFound.tsx
+[waves-light-pn2aw] src/client/pages/PageTemplate.tsx -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/client/pages/PageTemplate.tsx
+[waves-light-pn2aw] src/client/pages/Partners.tsx -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/client/pages/Partners.tsx
+[waves-light-pn2aw] src/client/pages/Privacy.tsx -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/client/pages/Privacy.tsx
+[waves-light-pn2aw] src/client/pages/ProxyFrame.tsx -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/client/pages/ProxyFrame.tsx
+[waves-light-pn2aw] src/client/pages/Scramjet.tsx -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/client/pages/Scramjet.tsx
+[waves-light-pn2aw] src/client/pages/ScramjetError.tsx -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/client/pages/ScramjetError.tsx
+[waves-light-pn2aw] src/client/particles.tsx -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/client/particles.tsx
+[waves-light-pn2aw] src/client/tooltips.tsx -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/client/tooltips.tsx
+[waves-light-pn2aw] src/client/types.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/client/types.ts
+[waves-light-pn2aw] src/config.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/config.ts
+[waves-light-pn2aw] src/constants.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/constants.ts
+[waves-light-pn2aw] src/data.json -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/data.json
+[waves-light-pn2aw] src/obfuscation/assets.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/obfuscation/assets.ts
+[waves-light-pn2aw] src/obfuscation/classes.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/obfuscation/classes.ts
+[waves-light-pn2aw] src/obfuscation/documents.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/obfuscation/documents.ts
+[waves-light-pn2aw] src/obfuscation/flagged-words.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/obfuscation/flagged-words.ts
+[waves-light-pn2aw] src/obfuscation/fonts.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/obfuscation/fonts.ts
+[waves-light-pn2aw] src/obfuscation/keywords.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/obfuscation/keywords.ts
+[waves-light-pn2aw] src/obfuscation/mask-document.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/obfuscation/mask-document.ts
+[waves-light-pn2aw] src/obfuscation/masks.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/obfuscation/masks.ts
+[waves-light-pn2aw] src/obfuscation/paths.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/obfuscation/paths.ts
+[waves-light-pn2aw] src/obfuscation/scramjet-params.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/obfuscation/scramjet-params.ts
+[waves-light-pn2aw] src/obfuscation/scramjet-signatures.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/obfuscation/scramjet-signatures.ts
+[waves-light-pn2aw] src/obfuscation/scripts.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/obfuscation/scripts.ts
+[waves-light-pn2aw] src/obfuscation/state.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/obfuscation/state.ts
+[waves-light-pn2aw] src/server/dlpcc.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/server/dlpcc.ts
+[waves-light-pn2aw] src/server/files.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/server/files.ts
+[waves-light-pn2aw] src/server/handler.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/server/handler.ts
+[waves-light-pn2aw] src/server/index.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/server/index.ts
+[waves-light-pn2aw] src/server/language.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/server/language.ts
+[waves-light-pn2aw] src/server/link-dispenser.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/server/link-dispenser.ts
+[waves-light-pn2aw] src/server/links.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/server/links.ts
+[waves-light-pn2aw] src/server/routes.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/server/routes.ts
+[waves-light-pn2aw] src/server/wisp-supervisor.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/server/wisp-supervisor.ts
+[waves-light-pn2aw] src/server/wisp.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/server/wisp.ts
+[waves-light-pn2aw] src/site.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/src/site.ts
+[waves-light-pn2aw] tests/browser/dlpcc.test.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/tests/browser/dlpcc.test.ts
+[waves-light-pn2aw] tests/browser/site.test.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/tests/browser/site.test.ts
+[waves-light-pn2aw] tests/fixtures/browser-probe.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/tests/fixtures/browser-probe.ts
+[waves-light-pn2aw] tests/fixtures/dlpcc-probe.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/tests/fixtures/dlpcc-probe.ts
+[waves-light-pn2aw] tests/fixtures/http-probe.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/tests/fixtures/http-probe.ts
+[waves-light-pn2aw] tests/fixtures/obfuscation-probe.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/tests/fixtures/obfuscation-probe.ts
+[waves-light-pn2aw] tests/helpers/fixture.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/tests/helpers/fixture.ts
+[waves-light-pn2aw] tests/helpers/http.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/tests/helpers/http.ts
+[waves-light-pn2aw] tests/integration/site.test.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/tests/integration/site.test.ts
+[waves-light-pn2aw] tests/tsconfig.json -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/tests/tsconfig.json
+[waves-light-pn2aw] tests/unit/dlpcc.test.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/tests/unit/dlpcc.test.ts
+[waves-light-pn2aw] tests/unit/fingerprint.test.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/tests/unit/fingerprint.test.ts
+[waves-light-pn2aw] tests/unit/http-cache.test.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/tests/unit/http-cache.test.ts
+[waves-light-pn2aw] tests/unit/link-dispenser.test.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/tests/unit/link-dispenser.test.ts
+[waves-light-pn2aw] tests/unit/locales.test.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/tests/unit/locales.test.ts
+[waves-light-pn2aw] tests/unit/masking.test.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/tests/unit/masking.test.ts
+[waves-light-pn2aw] tests/unit/obfuscation.test.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/tests/unit/obfuscation.test.ts
+[waves-light-pn2aw] tests/unit/search-url-guard.test.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/tests/unit/search-url-guard.test.ts
+[waves-light-pn2aw] tests/unit/site-fixes.test.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/tests/unit/site-fixes.test.ts
+[waves-light-pn2aw] tests/unit/transport.test.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/tests/unit/transport.test.ts
+[waves-light-pn2aw] tests/unit/wisp-supervisor.test.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/tests/unit/wisp-supervisor.test.ts
+[waves-light-pn2aw] tsconfig.browser.json -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/tsconfig.browser.json
+[waves-light-pn2aw] tsconfig.json -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/tsconfig.json
+[waves-light-pn2aw] views/GAMES.md -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/GAMES.md
+[waves-light-pn2aw] views/assets/css/aos.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/css/aos.css
+[waves-light-pn2aw] views/assets/css/challenge.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/css/challenge.css
+[waves-light-pn2aw] views/assets/css/partials/animations.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/css/partials/animations.css
+[waves-light-pn2aw] views/assets/css/partials/applications.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/css/partials/applications.css
+[waves-light-pn2aw] views/assets/css/partials/base.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/css/partials/base.css
+[waves-light-pn2aw] views/assets/css/partials/branding.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/css/partials/branding.css
+[waves-light-pn2aw] views/assets/css/partials/components.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/css/partials/components.css
+[waves-light-pn2aw] views/assets/css/partials/documentation.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/css/partials/documentation.css
+[waves-light-pn2aw] views/assets/css/partials/faq.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/css/partials/faq.css
+[waves-light-pn2aw] views/assets/css/partials/font-loader.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/css/partials/font-loader.css
+[waves-light-pn2aw] views/assets/css/partials/fonts.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/css/partials/fonts.css
+[waves-light-pn2aw] views/assets/css/partials/footer.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/css/partials/footer.css
+[waves-light-pn2aw] views/assets/css/partials/home.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/css/partials/home.css
+[waves-light-pn2aw] views/assets/css/partials/icons.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/css/partials/icons.css
+[waves-light-pn2aw] views/assets/css/partials/mirror-links.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/css/partials/mirror-links.css
+[waves-light-pn2aw] views/assets/css/partials/navigation.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/css/partials/navigation.css
+[waves-light-pn2aw] views/assets/css/partials/proxy-frame.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/css/partials/proxy-frame.css
+[waves-light-pn2aw] views/assets/css/partials/proxy.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/css/partials/proxy.css
+[waves-light-pn2aw] views/assets/css/partials/settings.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/css/partials/settings.css
+[waves-light-pn2aw] views/assets/css/partials/theme.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/css/partials/theme.css
+[waves-light-pn2aw] views/assets/css/style.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/css/style.css
+[waves-light-pn2aw] views/assets/ico/android-icon-144x144.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/ico/android-icon-144x144.png
+[waves-light-pn2aw] views/assets/ico/android-icon-192x192.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/ico/android-icon-192x192.png
+[waves-light-pn2aw] views/assets/ico/android-icon-36x36.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/ico/android-icon-36x36.png
+[waves-light-pn2aw] views/assets/ico/android-icon-48x48.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/ico/android-icon-48x48.png
+[waves-light-pn2aw] views/assets/ico/android-icon-72x72.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/ico/android-icon-72x72.png
+[waves-light-pn2aw] views/assets/ico/android-icon-96x96.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/ico/android-icon-96x96.png
+[waves-light-pn2aw] views/assets/ico/apple-icon-114x114.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/ico/apple-icon-114x114.png
+[waves-light-pn2aw] views/assets/ico/apple-icon-120x120.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/ico/apple-icon-120x120.png
+[waves-light-pn2aw] views/assets/ico/apple-icon-144x144.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/ico/apple-icon-144x144.png
+[waves-light-pn2aw] views/assets/ico/apple-icon-152x152.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/ico/apple-icon-152x152.png
+[waves-light-pn2aw] views/assets/ico/apple-icon-180x180.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/ico/apple-icon-180x180.png
+[waves-light-pn2aw] views/assets/ico/apple-icon-57x57.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/ico/apple-icon-57x57.png
+[waves-light-pn2aw] views/assets/ico/apple-icon-60x60.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/ico/apple-icon-60x60.png
+[waves-light-pn2aw] views/assets/ico/apple-icon-72x72.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/ico/apple-icon-72x72.png
+[waves-light-pn2aw] views/assets/ico/apple-icon-76x76.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/ico/apple-icon-76x76.png
+[waves-light-pn2aw] views/assets/ico/favicon-16x16.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/ico/favicon-16x16.png
+[waves-light-pn2aw] views/assets/ico/favicon-32x32.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/ico/favicon-32x32.png
+[waves-light-pn2aw] views/assets/ico/favicon-96x96.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/ico/favicon-96x96.png
+[waves-light-pn2aw] views/assets/ico/favicon.ico -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/ico/favicon.ico
+[waves-light-pn2aw] views/assets/ico/manifest.json -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/ico/manifest.json
+[waves-light-pn2aw] views/assets/ico/ms-icon-144x144.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/ico/ms-icon-144x144.png
+[waves-light-pn2aw] views/assets/ico/ms-icon-150x150.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/ico/ms-icon-150x150.png
+[waves-light-pn2aw] views/assets/ico/ms-icon-310x310.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/ico/ms-icon-310x310.png
+[waves-light-pn2aw] views/assets/ico/ms-icon-70x70.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/ico/ms-icon-70x70.png
+[waves-light-pn2aw] views/assets/img/apps.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/img/apps.webp
+[waves-light-pn2aw] views/assets/img/dnssetup.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/img/dnssetup.png
+[waves-light-pn2aw] views/assets/img/filecode.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/img/filecode.webp
+[waves-light-pn2aw] views/assets/img/fontawesome.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/img/fontawesome.webp
+[waves-light-pn2aw] views/assets/img/git.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/img/git.webp
+[waves-light-pn2aw] views/assets/img/github_banner.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/img/github_banner.png
+[waves-light-pn2aw] views/assets/img/hero.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/img/hero.webp
+[waves-light-pn2aw] views/assets/img/hosting.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/img/hosting.webp
+[waves-light-pn2aw] views/assets/img/icon.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/img/icon.png
+[waves-light-pn2aw] views/assets/img/logo-light.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/img/logo-light.webp
+[waves-light-pn2aw] views/assets/img/logo.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/img/logo.webp
+[waves-light-pn2aw] views/assets/img/logo_brand.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/img/logo_brand.webp
+[waves-light-pn2aw] views/assets/img/logo_github.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/img/logo_github.png
+[waves-light-pn2aw] views/assets/img/mirrors.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/img/mirrors.png
+[waves-light-pn2aw] views/assets/img/nodejs.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/img/nodejs.webp
+[waves-light-pn2aw] views/assets/img/noise.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/img/noise.webp
+[waves-light-pn2aw] views/assets/img/nordtheme.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/img/nordtheme.webp
+[waves-light-pn2aw] views/assets/img/potato.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/img/potato.png
+[waves-light-pn2aw] views/assets/img/potato.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/img/potato.webp
+[waves-light-pn2aw] views/assets/img/preview/invisi-v8.3.0-preview-settings.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/img/preview/invisi-v8.3.0-preview-settings.png
+[waves-light-pn2aw] views/assets/img/preview/invisi-v8.3.0-preview.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/img/preview/invisi-v8.3.0-preview.png
+[waves-light-pn2aw] views/assets/img/scramjet.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/img/scramjet.png
+[waves-light-pn2aw] views/assets/img/scramjet.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/img/scramjet.webp
+[waves-light-pn2aw] views/assets/img/server.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/img/server.webp
+[waves-light-pn2aw] views/assets/img/shield.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/img/shield.webp
+[waves-light-pn2aw] views/assets/img/solid.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/img/solid.webp
+[waves-light-pn2aw] views/assets/img/vite.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/img/vite.webp
+[waves-light-pn2aw] views/assets/js/card.js -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/js/card.js
+[waves-light-pn2aw] views/assets/js/common.js -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/js/common.js
+[waves-light-pn2aw] views/assets/js/csel.js -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/js/csel.js
+[waves-light-pn2aw] views/assets/js/frame.js -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/js/frame.js
+[waves-light-pn2aw] views/assets/js/link.js -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/js/link.js
+[waves-light-pn2aw] views/assets/js/loader.js -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/js/loader.js
+[waves-light-pn2aw] views/assets/js/register-sw.js -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/js/register-sw.js
+[waves-light-pn2aw] views/assets/misc/visualstudiocode.mp3 -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/misc/visualstudiocode.mp3
+[waves-light-pn2aw] views/assets/txt/alt-blacklist.txt -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/txt/alt-blacklist.txt
+[waves-light-pn2aw] views/assets/txt/blacklist.txt -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/assets/txt/blacklist.txt
+[waves-light-pn2aw] views/browserconfig.xml -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/browserconfig.xml
+[waves-light-pn2aw] views/manifest.json -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/manifest.json
+[waves-light-pn2aw] views/robots.txt -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/robots.txt
+[waves-light-pn2aw] views/sitemap.xml -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/sitemap.xml
+[waves-light-pn2aw] views/sw-blacklist.js -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/sw-blacklist.js
+[waves-light-pn2aw] views/sw.js -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/views/sw.js
+[waves-light-pn2aw] vite.config.ts -> https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/vite.config.ts
+
+==================================================
+
+# MULTIPLIED LINKS (300 total across 3 sites via godmode):
+https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/assets/v0001/waves-light.svg?authuser=36861747&resourcekey=dddddd&usp=sharing&assignment_id=202
+https://fastly.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/assets/v0001/app.svg?submission_id=586745465076&module_item_id=3645&user_id=82083007&download=1
+https://gcore.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/dist/v0001/waves-light.svg?id=2&key=2
+https://testingcf.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/dist/v0001/app.svg?usp=drive_web&authuser=9&resourcekey=QbwRcxSdy&id=3
+https://cdn.statically.io/gh/CaptainCSS/waves-light-pn2aw/main/links/v0001/waves-light.svg?id=4&edge=cf_78dde6&v=0004
+https://rawcdn.githack.com/CaptainCSS/waves-light-pn2aw/main/links/v0001/app.svg?authuser=69&resourcekey=gPoXw5&usp=sharing&assignment_id=23
+https://raw.githack.com/CaptainCSS/waves-light-pn2aw/main/public/v0001/waves-light.svg?submission_id=63&module_item_id=5540984&user_id=7113410155&download=1
+https://raw.githubusercontent.com/CaptainCSS/waves-light-pn2aw/main/public/v0001/app.svg?id=7&key=7
+https://esm.sh/gh/CaptainCSS/waves-light-pn2aw@main/cdn/v0001/waves-light.svg?usp=drive_web&authuser=32629&resourcekey=TNHBvpjd7&id=8
+https://raw.esm.sh/gh/CaptainCSS/waves-light-pn2aw@main/cdn/v0001/app.svg?id=9&edge=cf_8ff347&v=0009
+https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@release/assets/v0001/waves-light.svg?authuser=17429546607&resourcekey=jrzHPX&usp=sharing&assignment_id=992
+https://fastly.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@release/assets/v0001/app.svg?submission_id=4338703444&module_item_id=6331511&user_id=5600&download=1
+https://gcore.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@release/dist/v0001/waves-light.svg?id=12&key=12
+https://testingcf.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@release/dist/v0001/app.svg?usp=drive_web&authuser=355848561684&resourcekey=WpSlOhKdG&id=13
+https://cdn.statically.io/gh/CaptainCSS/waves-light-pn2aw/release/links/v0001/waves-light.svg?id=14&edge=cf_a708a7&v=0014
+https://rawcdn.githack.com/CaptainCSS/waves-light-pn2aw/release/links/v0001/app.svg?authuser=436&resourcekey=m3Kr8P&usp=sharing&assignment_id=40
+https://raw.githack.com/CaptainCSS/waves-light-pn2aw/release/public/v0001/waves-light.svg?submission_id=8673782&module_item_id=24720346241&user_id=6041007185&download=1
+https://raw.githubusercontent.com/CaptainCSS/waves-light-pn2aw/release/public/v0001/app.svg?id=17&key=17
+https://esm.sh/gh/CaptainCSS/waves-light-pn2aw@release/cdn/v0001/waves-light.svg?usp=drive_web&authuser=49741&resourcekey=Z13579bdf&id=18
+https://raw.esm.sh/gh/CaptainCSS/waves-light-pn2aw@release/cdn/v0001/app.svg?id=19&edge=cf_be1e08&v=0019
+https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@v1/assets/v0001/waves-light.svg?authuser=5750&resourcekey=pFVbrH&usp=sharing&assignment_id=710297250572
+https://fastly.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@v1/assets/v0001/app.svg?submission_id=36742798&module_item_id=18590625185&user_id=85&download=1
+https://gcore.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@v1/dist/v0001/waves-light.svg?id=22&key=22
+https://testingcf.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@v1/dist/v0001/app.svg?usp=drive_web&authuser=14135&resourcekey=2DePq1CdO&id=23
+https://cdn.statically.io/gh/CaptainCSS/waves-light-pn2aw/v1/links/v0001/waves-light.svg?id=24&edge=cf_d53368&v=0024
+https://rawcdn.githack.com/CaptainCSS/waves-light-pn2aw/v1/links/v0001/app.svg?authuser=5236&resourcekey=sh6VKz&usp=sharing&assignment_id=983057855
+https://raw.githack.com/CaptainCSS/waves-light-pn2aw/v1/public/v0001/waves-light.svg?submission_id=90470098&module_item_id=9&user_id=0&download=1
+https://raw.githubusercontent.com/CaptainCSS/waves-light-pn2aw/v1/public/v0001/app.svg?id=27&key=27
+https://esm.sh/gh/CaptainCSS/waves-light-pn2aw@v1/cdn/v0001/waves-light.svg?usp=drive_web&authuser=570&resourcekey=5fpzJT3dn&id=28
+https://raw.esm.sh/gh/CaptainCSS/waves-light-pn2aw@v1/cdn/v0001/app.svg?id=29&edge=cf_ec48c9&v=0029
+https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@cdn/assets/v0001/waves-light.svg?authuser=86953686&resourcekey=vThF3r&usp=sharing&assignment_id=72745644333
+https://fastly.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@cdn/assets/v0001/app.svg?submission_id=587646756&module_item_id=87132&user_id=41288&download=1
+https://gcore.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@cdn/dist/v0001/waves-light.svg?id=32&key=32
+https://testingcf.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@cdn/dist/v0001/app.svg?usp=drive_web&authuser=839182&resourcekey=8RAj2LudW&id=33
+https://cdn.statically.io/gh/CaptainCSS/waves-light-pn2aw/cdn/links/v0001/waves-light.svg?id=34&edge=cf_035e29&v=0034
+https://rawcdn.githack.com/CaptainCSS/waves-light-pn2aw/cdn/links/v0001/app.svg?authuser=5185&resourcekey=yvspmj&usp=sharing&assignment_id=797120668304
+https://raw.githack.com/CaptainCSS/waves-light-pn2aw/cdn/public/v0001/waves-light.svg?submission_id=199418494617&module_item_id=4525115797&user_id=620879277314&download=1
+https://raw.githubusercontent.com/CaptainCSS/waves-light-pn2aw/cdn/public/v0001/app.svg?id=37&key=37
+https://esm.sh/gh/CaptainCSS/waves-light-pn2aw@cdn/cdn/v0001/waves-light.svg?usp=drive_web&authuser=215933&resourcekey=btL3lDVdv&id=38
+https://raw.esm.sh/gh/CaptainCSS/waves-light-pn2aw@cdn/cdn/v0001/app.svg?id=39&edge=cf_1a7389&v=0039
+https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@edge/assets/v0001/waves-light.svg?authuser=10800988230&resourcekey=B7D9Fb&usp=sharing&assignment_id=874121
+https://fastly.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@edge/assets/v0001/app.svg?submission_id=2541019126&module_item_id=22322&user_id=572&download=1
+https://gcore.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@edge/dist/v0001/waves-light.svg?id=42&key=42
+https://testingcf.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@edge/dist/v0001/app.svg?usp=drive_web&authuser=39958863624&resourcekey=e5WNEvmd4&id=43
+https://cdn.statically.io/gh/CaptainCSS/waves-light-pn2aw/edge/links/v0001/waves-light.svg?id=44&edge=cf_3188ea&v=0044
+https://rawcdn.githack.com/CaptainCSS/waves-light-pn2aw/edge/links/v0001/app.svg?authuser=63699&resourcekey=EJOTY3&usp=sharing&assignment_id=851997
+https://raw.githack.com/CaptainCSS/waves-light-pn2aw/edge/public/v0001/waves-light.svg?submission_id=930723&module_item_id=413232663&user_id=2&download=1
+https://raw.githubusercontent.com/CaptainCSS/waves-light-pn2aw/edge/public/v0001/app.svg?id=47&key=47
+https://esm.sh/gh/CaptainCSS/waves-light-pn2aw@edge/cdn/v0001/waves-light.svg?usp=drive_web&authuser=58&resourcekey=hH7xXnNdD&id=48
+https://raw.esm.sh/gh/CaptainCSS/waves-light-pn2aw@edge/cdn/v0001/app.svg?id=49&edge=cf_489e4a&v=0049
+https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@d705c7b026ac54f01dcce168eb8e607e4b5ba9bd/assets/v0001/waves-light.svg?authuser=41670464758&resourcekey=HlZDhV&usp=sharing&assignment_id=686413055
+https://fastly.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@d705c7b026ac54f01dcce168eb8e607e4b5ba9bd/assets/v0001/app.svg?submission_id=619886277&module_item_id=3686&user_id=36259&download=1
+https://gcore.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@d705c7b026ac54f01dcce168eb8e607e4b5ba9bd/dist/v0001/waves-light.svg?id=52&key=52
+https://testingcf.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@d705c7b026ac54f01dcce168eb8e607e4b5ba9bd/dist/v0001/app.svg?usp=drive_web&authuser=745606042583&resourcekey=kjihgfedc&id=53
+https://cdn.statically.io/gh/CaptainCSS/waves-light-pn2aw/d705c7b026ac54f01dcce168eb8e607e4b5ba9bd/links/v0001/waves-light.svg?id=54&edge=cf_5fb3ab&v=0054
+https://rawcdn.githack.com/CaptainCSS/waves-light-pn2aw/d705c7b026ac54f01dcce168eb8e607e4b5ba9bd/links/v0001/app.svg?authuser=510514596170&resourcekey=KXanAN&usp=sharing&assignment_id=546152605
+https://raw.githack.com/CaptainCSS/waves-light-pn2aw/d705c7b026ac54f01dcce168eb8e607e4b5ba9bd/public/v0001/waves-light.svg?submission_id=15634792199&module_item_id=297349540&user_id=87658647910&download=1
+https://raw.githubusercontent.com/CaptainCSS/waves-light-pn2aw/d705c7b026ac54f01dcce168eb8e607e4b5ba9bd/public/v0001/app.svg?id=57&key=57
+https://esm.sh/gh/CaptainCSS/waves-light-pn2aw@d705c7b026ac54f01dcce168eb8e607e4b5ba9bd/cdn/v0001/waves-light.svg?usp=drive_web&authuser=89&resourcekey=nVt1z7FdL&id=58
+https://raw.esm.sh/gh/CaptainCSS/waves-light-pn2aw@d705c7b026ac54f01dcce168eb8e607e4b5ba9bd/cdn/v0001/app.svg?id=59&edge=cf_76c90b&v=0059
+https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@d705c7b/assets/v0001/waves-light.svg?authuser=97374855785&resourcekey=Nzl7TF&usp=sharing&assignment_id=66
+https://fastly.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@d705c7b/assets/v0001/app.svg?submission_id=1441378&module_item_id=36&user_id=4868890830&download=1
+https://gcore.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@d705c7b/dist/v0001/waves-light.svg?id=62&key=62
+https://testingcf.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@d705c7b/dist/v0001/app.svg?usp=drive_web&authuser=662450902&resourcekey=qxELSZ6dk&id=63
+https://cdn.statically.io/gh/CaptainCSS/waves-light-pn2aw/d705c7b/links/v0001/waves-light.svg?id=64&edge=cf_8dde6c&v=0064
+https://rawcdn.githack.com/CaptainCSS/waves-light-pn2aw/d705c7b/links/v0001/app.svg?authuser=5358703992&resourcekey=QbwRcx&usp=sharing&assignment_id=2
+https://raw.githack.com/CaptainCSS/waves-light-pn2aw/d705c7b/public/v0001/waves-light.svg?submission_id=458&module_item_id=4370883028&user_id=6598&download=1
+https://raw.githubusercontent.com/CaptainCSS/waves-light-pn2aw/d705c7b/public/v0001/app.svg?id=67&key=67
+https://esm.sh/gh/CaptainCSS/waves-light-pn2aw@d705c7b/cdn/v0001/waves-light.svg?usp=drive_web&authuser=915973024125&resourcekey=t9PvbRxdT&id=68
+https://raw.esm.sh/gh/CaptainCSS/waves-light-pn2aw@d705c7b/cdn/v0001/app.svg?id=69&edge=cf_a4f3cc&v=0069
+https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@f4c9803b827544108c110b22ff11fda40a3bd492/assets/v0001/waves-light.svg?authuser=3762703548&resourcekey=TNHBvp&usp=sharing&assignment_id=32924227
+https://fastly.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@f4c9803b827544108c110b22ff11fda40a3bd492/assets/v0001/app.svg?submission_id=34&module_item_id=693537&user_id=9&download=1
+https://gcore.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@f4c9803b827544108c110b22ff11fda40a3bd492/dist/v0001/waves-light.svg?id=72&key=72
+https://testingcf.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@f4c9803b827544108c110b22ff11fda40a3bd492/dist/v0001/app.svg?usp=drive_web&authuser=0&resourcekey=wL0fuJYds&id=73
+https://cdn.statically.io/gh/CaptainCSS/waves-light-pn2aw/f4c9803b827544108c110b22ff11fda40a3bd492/links/v0001/waves-light.svg?id=74&edge=cf_bc092d&v=0074
+https://rawcdn.githack.com/CaptainCSS/waves-light-pn2aw/f4c9803b827544108c110b22ff11fda40a3bd492/links/v0001/app.svg?authuser=70891&resourcekey=WpSlOh&usp=sharing&assignment_id=456972262167
+https://raw.githack.com/CaptainCSS/waves-light-pn2aw/f4c9803b827544108c110b22ff11fda40a3bd492/public/v0001/waves-light.svg?submission_id=97&module_item_id=85149997&user_id=1831423813&download=1
+https://raw.githubusercontent.com/CaptainCSS/waves-light-pn2aw/f4c9803b827544108c110b22ff11fda40a3bd492/public/v0001/app.svg?id=77&key=77
+https://esm.sh/gh/CaptainCSS/waves-light-pn2aw@f4c9803b827544108c110b22ff11fda40a3bd492/cdn/v0001/waves-light.svg?usp=drive_web&authuser=46345&resourcekey=znbZNBpd1&id=78
+https://raw.esm.sh/gh/CaptainCSS/waves-light-pn2aw@f4c9803b827544108c110b22ff11fda40a3bd492/cdn/v0001/app.svg?id=79&edge=cf_d31e8d&v=0079
+https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@f4c9803/assets/v0001/waves-light.svg?authuser=2566&resourcekey=Z13579&usp=sharing&assignment_id=466131
+https://fastly.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@f4c9803/assets/v0001/app.svg?submission_id=146425899&module_item_id=17093081945&user_id=2&download=1
+https://gcore.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@f4c9803/dist/v0001/waves-light.svg?id=82&key=82
+https://testingcf.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@f4c9803/dist/v0001/app.svg?usp=drive_web&authuser=333&resourcekey=CZmJ6tQdA&id=83
+https://cdn.statically.io/gh/CaptainCSS/waves-light-pn2aw/f4c9803/links/v0001/waves-light.svg?id=84&edge=cf_ea33ee&v=0084
+https://rawcdn.githack.com/CaptainCSS/waves-light-pn2aw/f4c9803/links/v0001/app.svg?authuser=9557&resourcekey=2DePq1&usp=sharing&assignment_id=814741
+https://raw.githack.com/CaptainCSS/waves-light-pn2aw/f4c9803/public/v0001/waves-light.svg?submission_id=957129&module_item_id=25277595&user_id=2125118&download=1
+https://raw.githubusercontent.com/CaptainCSS/waves-light-pn2aw/f4c9803/public/v0001/app.svg?id=87&key=87
+https://esm.sh/gh/CaptainCSS/waves-light-pn2aw@f4c9803/cdn/v0001/waves-light.svg?usp=drive_web&authuser=65752&resourcekey=FBxtplhd9&id=88
+https://raw.esm.sh/gh/CaptainCSS/waves-light-pn2aw@f4c9803/cdn/v0001/app.svg?id=89&edge=cf_01494e&v=0089
+https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@c0298da3304ba5d62d9daabe784f1d95b25e7c84/assets/v0001/waves-light.svg?authuser=54497&resourcekey=5fpzJT&usp=sharing&assignment_id=45665
+https://fastly.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@c0298da3304ba5d62d9daabe784f1d95b25e7c84/assets/v0001/app.svg?submission_id=315041427&module_item_id=406795528309&user_id=9134&download=1
+https://gcore.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@c0298da3304ba5d62d9daabe784f1d95b25e7c84/dist/v0001/waves-light.svg?id=92&key=92
+https://testingcf.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@c0298da3304ba5d62d9daabe784f1d95b25e7c84/dist/v0001/app.svg?usp=drive_web&authuser=11178&resourcekey=IdIdIdIdI&id=93
+https://cdn.statically.io/gh/CaptainCSS/waves-light-pn2aw/c0298da3304ba5d62d9daabe784f1d95b25e7c84/links/v0001/waves-light.svg?id=94&edge=cf_185eae&v=0094
+https://rawcdn.githack.com/CaptainCSS/waves-light-pn2aw/c0298da3304ba5d62d9daabe784f1d95b25e7c84/links/v0001/app.svg?authuser=735936495&resourcekey=8RAj2L&usp=sharing&assignment_id=72
+https://raw.githack.com/CaptainCSS/waves-light-pn2aw/c0298da3304ba5d62d9daabe784f1d95b25e7c84/public/v0001/waves-light.svg?submission_id=883664&module_item_id=922595557786&user_id=7&download=1
+https://raw.githubusercontent.com/CaptainCSS/waves-light-pn2aw/c0298da3304ba5d62d9daabe784f1d95b25e7c84/public/v0001/app.svg?id=97&key=97
+https://esm.sh/gh/CaptainCSS/waves-light-pn2aw@c0298da3304ba5d62d9daabe784f1d95b25e7c84/cdn/v0001/waves-light.svg?usp=drive_web&authuser=946535022&resourcekey=LPTX159dh&id=98
+https://raw.esm.sh/gh/CaptainCSS/waves-light-pn2aw@c0298da3304ba5d62d9daabe784f1d95b25e7c84/cdn/v0001/app.svg?id=99&edge=cf_2f740f&v=0099
+https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/assets/v0001/waves.svg?authuser=780102&resourcekey=btL3lD&usp=sharing&assignment_id=11224169
+https://fastly.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/assets/v0001/app.svg?submission_id=27&module_item_id=3247740805&user_id=83732&download=1
+https://gcore.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/dist/v0001/waves.svg?id=102&key=102
+https://testingcf.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/dist/v0001/app.svg?usp=drive_web&authuser=44&resourcekey=Or4HkXAdQ&id=103
+https://cdn.statically.io/gh/CaptainCSS/waves-light-pn2aw/main/links/v0001/waves.svg?id=104&edge=cf_46896f&v=0104
+https://rawcdn.githack.com/CaptainCSS/waves-light-pn2aw/main/links/v0001/app.svg?authuser=67542873&resourcekey=e5WNEv&usp=sharing&assignment_id=630177
+https://raw.githack.com/CaptainCSS/waves-light-pn2aw/main/public/v0001/waves.svg?submission_id=88895&module_item_id=0&user_id=80&download=1
+https://raw.githubusercontent.com/CaptainCSS/waves-light-pn2aw/main/public/v0001/app.svg?id=107&key=107
+https://esm.sh/gh/CaptainCSS/waves-light-pn2aw@main/cdn/v0001/waves.svg?usp=drive_web&authuser=176&resourcekey=R3frDP1dp&id=108
+https://raw.esm.sh/gh/CaptainCSS/waves-light-pn2aw@main/cdn/v0001/app.svg?id=109&edge=cf_5d9ed0&v=0109
+https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@release/assets/v0001/waves.svg?authuser=45218774705&resourcekey=hH7xXn&usp=sharing&assignment_id=83
+https://fastly.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@release/assets/v0001/app.svg?submission_id=7&module_item_id=513320726&user_id=874028&download=1
+https://gcore.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@release/dist/v0001/waves.svg?id=112&key=112
+https://testingcf.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@release/dist/v0001/app.svg?usp=drive_web&authuser=195776187&resourcekey=UFqbWHsdY&id=113
+https://cdn.statically.io/gh/CaptainCSS/waves-light-pn2aw/release/links/v0001/waves.svg?id=114&edge=cf_74b430&v=0114
+https://rawcdn.githack.com/CaptainCSS/waves-light-pn2aw/release/links/v0001/app.svg?authuser=271218988&resourcekey=kjihgf&usp=sharing&assignment_id=7
+https://raw.githack.com/CaptainCSS/waves-light-pn2aw/release/public/v0001/waves.svg?submission_id=239&module_item_id=19869343&user_id=93&download=1
+https://raw.githubusercontent.com/CaptainCSS/waves-light-pn2aw/release/public/v0001/app.svg?id=117&key=117
+https://esm.sh/gh/CaptainCSS/waves-light-pn2aw@release/cdn/v0001/waves.svg?usp=drive_web&authuser=88576594&resourcekey=XhBVfzTdx&id=118
+https://raw.esm.sh/gh/CaptainCSS/waves-light-pn2aw@release/cdn/v0001/app.svg?id=119&edge=cf_8bc991&v=0119
+https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@v1/assets/v0001/waves.svg?authuser=458417488254&resourcekey=nVt1z7&usp=sharing&assignment_id=3940
+https://fastly.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@v1/assets/v0001/app.svg?submission_id=186&module_item_id=94215986&user_id=49620&download=1
+https://gcore.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@v1/dist/v0001/waves.svg?id=122&key=122
+https://testingcf.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@v1/dist/v0001/app.svg?usp=drive_web&authuser=724901&resourcekey=0TMFyrkd6&id=123
+https://cdn.statically.io/gh/CaptainCSS/waves-light-pn2aw/v1/links/v0001/waves.svg?id=124&edge=cf_a2def1&v=0124
+https://rawcdn.githack.com/CaptainCSS/waves-light-pn2aw/v1/links/v0001/app.svg?authuser=609&resourcekey=qxELSZ&usp=sharing&assignment_id=221
+https://raw.githack.com/CaptainCSS/waves-light-pn2aw/v1/public/v0001/waves.svg?submission_id=5617&module_item_id=7&user_id=423187102&download=1
+https://raw.githubusercontent.com/CaptainCSS/waves-light-pn2aw/v1/public/v0001/app.svg?id=127&key=127
+https://esm.sh/gh/CaptainCSS/waves-light-pn2aw@v1/cdn/v0001/waves.svg?usp=drive_web&authuser=4887&resourcekey=3vXpRjLdF&id=128
+https://raw.esm.sh/gh/CaptainCSS/waves-light-pn2aw@v1/cdn/v0001/app.svg?id=129&edge=cf_b9f452&v=0129
+https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@cdn/assets/v0001/waves.svg?authuser=281&resourcekey=t9PvbR&usp=sharing&assignment_id=8436
+https://fastly.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@cdn/assets/v0001/app.svg?submission_id=79&module_item_id=246058&user_id=412753&download=1
+https://gcore.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@cdn/dist/v0001/waves.svg?id=132&key=132
+https://testingcf.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@cdn/dist/v0001/app.svg?usp=drive_web&authuser=83&resourcekey=6789abcde&id=133
+https://cdn.statically.io/gh/CaptainCSS/waves-light-pn2aw/cdn/links/v0001/waves.svg?id=134&edge=cf_d109b2&v=0134
+https://rawcdn.githack.com/CaptainCSS/waves-light-pn2aw/cdn/links/v0001/app.svg?authuser=590606709562&resourcekey=wL0fuJ&usp=sharing&assignment_id=813
+https://raw.githack.com/CaptainCSS/waves-light-pn2aw/cdn/public/v0001/waves.svg?submission_id=6304523364&module_item_id=97&user_id=3&download=1
+https://raw.githubusercontent.com/CaptainCSS/waves-light-pn2aw/cdn/public/v0001/app.svg?id=137&key=137
+https://esm.sh/gh/CaptainCSS/waves-light-pn2aw@cdn/cdn/v0001/waves.svg?usp=drive_web&authuser=900&resourcekey=9JjTt3DdN&id=138
+https://raw.esm.sh/gh/CaptainCSS/waves-light-pn2aw@cdn/cdn/v0001/app.svg?id=139&edge=cf_e81f13&v=0139
+https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@edge/assets/v0001/waves.svg?authuser=399831636713&resourcekey=znbZNB&usp=sharing&assignment_id=722310614621
+https://fastly.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@edge/assets/v0001/app.svg?submission_id=4892961&module_item_id=5&user_id=671731328386&download=1
+https://gcore.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@edge/dist/v0001/waves.svg?id=142&key=142
+https://testingcf.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@edge/dist/v0001/app.svg?usp=drive_web&authuser=559458579&resourcekey=cluDMV4dm&id=143
+https://cdn.statically.io/gh/CaptainCSS/waves-light-pn2aw/edge/links/v0001/waves.svg?id=144&edge=cf_ff3473&v=0144
+https://rawcdn.githack.com/CaptainCSS/waves-light-pn2aw/edge/links/v0001/app.svg?authuser=370&resourcekey=CZmJ6t&usp=sharing&assignment_id=395542996331
+https://raw.githack.com/CaptainCSS/waves-light-pn2aw/edge/public/v0001/waves.svg?submission_id=939385&module_item_id=3&user_id=48418639&download=1
+https://raw.githubusercontent.com/CaptainCSS/waves-light-pn2aw/edge/public/v0001/app.svg?id=147&key=147
+https://esm.sh/gh/CaptainCSS/waves-light-pn2aw@edge/cdn/v0001/waves.svg?usp=drive_web&authuser=175075254776&resourcekey=fXFn5NvdV&id=148
+https://raw.esm.sh/gh/CaptainCSS/waves-light-pn2aw@edge/cdn/v0001/app.svg?id=149&edge=cf_1649d4&v=0149
+https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@d705c7b026ac54f01dcce168eb8e607e4b5ba9bd/assets/v0001/waves.svg?authuser=57&resourcekey=FBxtpl&usp=sharing&assignment_id=55097587
+https://fastly.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@d705c7b026ac54f01dcce168eb8e607e4b5ba9bd/assets/v0001/app.svg?submission_id=678&module_item_id=150848&user_id=98852296393&download=1
+https://gcore.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@d705c7b026ac54f01dcce168eb8e607e4b5ba9bd/dist/v0001/waves.svg?id=152&key=152
+https://testingcf.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@d705c7b026ac54f01dcce168eb8e607e4b5ba9bd/dist/v0001/app.svg?usp=drive_web&authuser=28123225&resourcekey=izQ7oFWdu&id=153
+https://cdn.statically.io/gh/CaptainCSS/waves-light-pn2aw/d705c7b026ac54f01dcce168eb8e607e4b5ba9bd/links/v0001/waves.svg?id=154&edge=cf_2d5f34&v=0154
+https://rawcdn.githack.com/CaptainCSS/waves-light-pn2aw/d705c7b026ac54f01dcce168eb8e607e4b5ba9bd/links/v0001/app.svg?authuser=8319626&resourcekey=IdIdId&usp=sharing&assignment_id=80042320676
+https://raw.githack.com/CaptainCSS/waves-light-pn2aw/d705c7b026ac54f01dcce168eb8e607e4b5ba9bd/public/v0001/waves.svg?submission_id=9833777&module_item_id=669&user_id=789180428&download=1
+https://raw.githubusercontent.com/CaptainCSS/waves-light-pn2aw/d705c7b026ac54f01dcce168eb8e607e4b5ba9bd/public/v0001/app.svg?id=157&key=157
+https://esm.sh/gh/CaptainCSS/waves-light-pn2aw@d705c7b026ac54f01dcce168eb8e607e4b5ba9bd/cdn/v0001/waves.svg?usp=drive_web&authuser=197181845&resourcekey=lb1RHxnd3&id=158
+https://raw.esm.sh/gh/CaptainCSS/waves-light-pn2aw@d705c7b026ac54f01dcce168eb8e607e4b5ba9bd/cdn/v0001/app.svg?id=159&edge=cf_447494&v=0159
+https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@d705c7b/assets/v0001/waves.svg?authuser=80428833&resourcekey=LPTX15&usp=sharing&assignment_id=528087966
+https://fastly.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@d705c7b/assets/v0001/app.svg?submission_id=778191&module_item_id=292422&user_id=93696140182&download=1
+https://gcore.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@d705c7b/dist/v0001/waves.svg?id=162&key=162
+https://testingcf.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@d705c7b/dist/v0001/app.svg?usp=drive_web&authuser=6314&resourcekey=oNcB0pOdC&id=163
+https://cdn.statically.io/gh/CaptainCSS/waves-light-pn2aw/d705c7b/links/v0001/waves.svg?id=164&edge=cf_5b89f5&v=0164
+https://rawcdn.githack.com/CaptainCSS/waves-light-pn2aw/d705c7b/links/v0001/app.svg?authuser=2&resourcekey=Or4HkX&usp=sharing&assignment_id=919
+https://raw.githack.com/CaptainCSS/waves-light-pn2aw/d705c7b/public/v0001/waves.svg?submission_id=2&module_item_id=516351&user_id=2273331&download=1
+https://raw.githubusercontent.com/CaptainCSS/waves-light-pn2aw/d705c7b/public/v0001/app.svg?id=167&key=167
+https://esm.sh/gh/CaptainCSS/waves-light-pn2aw@d705c7b/cdn/v0001/waves.svg?usp=drive_web&authuser=1&resourcekey=rpnljhfdb&id=168
+https://raw.esm.sh/gh/CaptainCSS/waves-light-pn2aw@d705c7b/cdn/v0001/app.svg?id=169&edge=cf_729f55&v=0169
+https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@f4c9803b827544108c110b22ff11fda40a3bd492/assets/v0001/waves.svg?authuser=462&resourcekey=R3frDP&usp=sharing&assignment_id=448068553
+https://fastly.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@f4c9803b827544108c110b22ff11fda40a3bd492/assets/v0001/app.svg?submission_id=69324&module_item_id=377204&user_id=4892&download=1
+https://gcore.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@f4c9803b827544108c110b22ff11fda40a3bd492/dist/v0001/waves.svg?id=172&key=172
+https://testingcf.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@f4c9803b827544108c110b22ff11fda40a3bd492/dist/v0001/app.svg?usp=drive_web&authuser=511517&resourcekey=u1y5C9GdK&id=173
+https://cdn.statically.io/gh/CaptainCSS/waves-light-pn2aw/f4c9803b827544108c110b22ff11fda40a3bd492/links/v0001/waves.svg?id=174&edge=cf_89b4b6&v=0174
+https://rawcdn.githack.com/CaptainCSS/waves-light-pn2aw/f4c9803b827544108c110b22ff11fda40a3bd492/links/v0001/app.svg?authuser=27&resourcekey=UFqbWH&usp=sharing&assignment_id=8019735
+https://raw.githack.com/CaptainCSS/waves-light-pn2aw/f4c9803b827544108c110b22ff11fda40a3bd492/public/v0001/waves.svg?submission_id=957777057730&module_item_id=28144867782&user_id=4173860&download=1
+https://raw.githubusercontent.com/CaptainCSS/waves-light-pn2aw/f4c9803b827544108c110b22ff11fda40a3bd492/public/v0001/app.svg?id=177&key=177
+https://esm.sh/gh/CaptainCSS/waves-light-pn2aw@f4c9803b827544108c110b22ff11fda40a3bd492/cdn/v0001/waves.svg?usp=drive_web&authuser=121535380&resourcekey=xDJPV17dj&id=178
+https://raw.esm.sh/gh/CaptainCSS/waves-light-pn2aw@f4c9803b827544108c110b22ff11fda40a3bd492/cdn/v0001/app.svg?id=179&edge=cf_a0ca16&v=0179
+https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@f4c9803/assets/v0001/waves.svg?authuser=516&resourcekey=XhBVfz&usp=sharing&assignment_id=3671829
+https://fastly.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@f4c9803/assets/v0001/app.svg?submission_id=933829713910&module_item_id=5603&user_id=2254155915&download=1
+https://gcore.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@f4c9803/dist/v0001/waves.svg?id=182&key=182
+https://testingcf.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@f4c9803/dist/v0001/app.svg?usp=drive_web&authuser=23&resourcekey=AfUzeTydS&id=183
+https://cdn.statically.io/gh/CaptainCSS/waves-light-pn2aw/f4c9803/links/v0001/waves.svg?id=184&edge=cf_b7df77&v=0184
+https://rawcdn.githack.com/CaptainCSS/waves-light-pn2aw/f4c9803/links/v0001/app.svg?authuser=8317&resourcekey=0TMFyr&usp=sharing&assignment_id=23
+https://raw.githack.com/CaptainCSS/waves-light-pn2aw/f4c9803/public/v0001/waves.svg?submission_id=224&module_item_id=503746&user_id=53416423858&download=1
+https://raw.githubusercontent.com/CaptainCSS/waves-light-pn2aw/f4c9803/public/v0001/app.svg?id=187&key=187
+https://esm.sh/gh/CaptainCSS/waves-light-pn2aw@f4c9803/cdn/v0001/waves.svg?usp=drive_web&authuser=41&resourcekey=DR5jxLZdr&id=188
+https://raw.esm.sh/gh/CaptainCSS/waves-light-pn2aw@f4c9803/cdn/v0001/app.svg?id=189&edge=cf_cef4d7&v=0189
+https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@c0298da3304ba5d62d9daabe784f1d95b25e7c84/assets/v0001/waves.svg?authuser=623934&resourcekey=3vXpRj&usp=sharing&assignment_id=45996043217
+https://fastly.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@c0298da3304ba5d62d9daabe784f1d95b25e7c84/assets/v0001/app.svg?submission_id=979368234781&module_item_id=386&user_id=2075935&download=1
+https://gcore.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@c0298da3304ba5d62d9daabe784f1d95b25e7c84/dist/v0001/waves.svg?id=192&key=192
+https://testingcf.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@c0298da3304ba5d62d9daabe784f1d95b25e7c84/dist/v0001/app.svg?usp=drive_web&authuser=470733&resourcekey=Gtg3QDqd0&id=193
+https://cdn.statically.io/gh/CaptainCSS/waves-light-pn2aw/c0298da3304ba5d62d9daabe784f1d95b25e7c84/links/v0001/waves.svg?id=194&edge=cf_e60a38&v=0194
+https://rawcdn.githack.com/CaptainCSS/waves-light-pn2aw/c0298da3304ba5d62d9daabe784f1d95b25e7c84/links/v0001/app.svg?authuser=2843&resourcekey=6789ab&usp=sharing&assignment_id=52594
+https://raw.githack.com/CaptainCSS/waves-light-pn2aw/c0298da3304ba5d62d9daabe784f1d95b25e7c84/public/v0001/waves.svg?submission_id=3843315&module_item_id=150696048142&user_id=374069229&download=1
+https://raw.githubusercontent.com/CaptainCSS/waves-light-pn2aw/c0298da3304ba5d62d9daabe784f1d95b25e7c84/public/v0001/app.svg?id=197&key=197
+https://esm.sh/gh/CaptainCSS/waves-light-pn2aw@c0298da3304ba5d62d9daabe784f1d95b25e7c84/cdn/v0001/waves.svg?usp=drive_web&authuser=636674&resourcekey=J5rN9vRdz&id=198
+https://raw.esm.sh/gh/CaptainCSS/waves-light-pn2aw@c0298da3304ba5d62d9daabe784f1d95b25e7c84/cdn/v0001/app.svg?id=199&edge=cf_fd1f98&v=0199
+https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/assets/v0001/new.svg?authuser=864107069233&resourcekey=9JjTt3&usp=sharing&assignment_id=868890
+https://fastly.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/assets/v0001/app.svg?submission_id=9909263&module_item_id=954&user_id=33&download=1
+https://gcore.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/dist/v0001/new.svg?id=202&key=202
+https://testingcf.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@main/dist/v0001/app.svg?usp=drive_web&authuser=7412&resourcekey=MHCxsnid8&id=203
+https://cdn.statically.io/gh/CaptainCSS/waves-light-pn2aw/main/links/v0001/new.svg?id=204&edge=cf_1434f9&v=0204
+https://rawcdn.githack.com/CaptainCSS/waves-light-pn2aw/main/links/v0001/app.svg?authuser=569840900&resourcekey=cluDMV&usp=sharing&assignment_id=2
+https://raw.githack.com/CaptainCSS/waves-light-pn2aw/main/public/v0001/new.svg?submission_id=50562652&module_item_id=1424035&user_id=440665&download=1
+https://raw.githubusercontent.com/CaptainCSS/waves-light-pn2aw/main/public/v0001/app.svg?id=207&key=207
+https://esm.sh/gh/CaptainCSS/waves-light-pn2aw@main/cdn/v0001/new.svg?usp=drive_web&authuser=9&resourcekey=PjNhLfJdH&id=208
+https://raw.esm.sh/gh/CaptainCSS/waves-light-pn2aw@main/cdn/v0001/app.svg?id=209&edge=cf_2b4a59&v=0209
+https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@release/assets/v0001/new.svg?authuser=456412&resourcekey=fXFn5N&usp=sharing&assignment_id=5
+https://fastly.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@release/assets/v0001/app.svg?submission_id=295174514&module_item_id=500177&user_id=47443&download=1
+https://gcore.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@release/dist/v0001/new.svg?id=212&key=212
+https://testingcf.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@release/dist/v0001/app.svg?usp=drive_web&authuser=82&resourcekey=SVY147adg&id=213
+https://cdn.statically.io/gh/CaptainCSS/waves-light-pn2aw/release/links/v0001/new.svg?id=214&edge=cf_425fb9&v=0214
+https://rawcdn.githack.com/CaptainCSS/waves-light-pn2aw/release/links/v0001/app.svg?authuser=5127&resourcekey=izQ7oF&usp=sharing&assignment_id=850593
+https://raw.githack.com/CaptainCSS/waves-light-pn2aw/release/public/v0001/new.svg?submission_id=800975639699&module_item_id=7433914072&user_id=10&download=1
+https://raw.githubusercontent.com/CaptainCSS/waves-light-pn2aw/release/public/v0001/app.svg?id=217&key=217
+https://esm.sh/gh/CaptainCSS/waves-light-pn2aw@release/cdn/v0001/new.svg?usp=drive_web&authuser=6329097824&resourcekey=Vx9LnZBdP&id=218
+https://raw.esm.sh/gh/CaptainCSS/waves-light-pn2aw@release/cdn/v0001/app.svg?id=219&edge=cf_59751a&v=0219
+https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@v1/assets/v0001/new.svg?authuser=596&resourcekey=lb1RHx&usp=sharing&assignment_id=54594
+https://fastly.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@v1/assets/v0001/app.svg?submission_id=38340501&module_item_id=824130625579&user_id=404917373290&download=1
+https://gcore.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@v1/dist/v0001/new.svg?id=222&key=222
+https://testingcf.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@v1/dist/v0001/app.svg?usp=drive_web&authuser=634545826178&resourcekey=Y9kvGR2do&id=223
+https://cdn.statically.io/gh/CaptainCSS/waves-light-pn2aw/v1/links/v0001/new.svg?id=224&edge=cf_708a7a&v=0224
+https://rawcdn.githack.com/CaptainCSS/waves-light-pn2aw/v1/links/v0001/app.svg?authuser=5248&resourcekey=oNcB0p&usp=sharing&assignment_id=99972527
+https://raw.githack.com/CaptainCSS/waves-light-pn2aw/v1/public/v0001/new.svg?submission_id=465986&module_item_id=981301618&user_id=930779132193&download=1
+https://raw.githubusercontent.com/CaptainCSS/waves-light-pn2aw/v1/public/v0001/app.svg?id=227&key=227
+https://esm.sh/gh/CaptainCSS/waves-light-pn2aw@v1/cdn/v0001/new.svg?usp=drive_web&authuser=32&resourcekey=1LvfZJtdX&id=228
+https://raw.esm.sh/gh/CaptainCSS/waves-light-pn2aw@v1/cdn/v0001/app.svg?id=229&edge=cf_879fdb&v=0229
+https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@cdn/assets/v0001/new.svg?authuser=999131667&resourcekey=rpnljh&usp=sharing&assignment_id=164842707
+https://fastly.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@cdn/assets/v0001/app.svg?submission_id=65659536&module_item_id=471&user_id=1723714&download=1
+https://gcore.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@cdn/dist/v0001/new.svg?id=232&key=232
+https://testingcf.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@cdn/dist/v0001/app.svg?usp=drive_web&authuser=8850594&resourcekey=4nGZiBUdw&id=233
+https://cdn.statically.io/gh/CaptainCSS/waves-light-pn2aw/cdn/links/v0001/new.svg?id=234&edge=cf_9eb53b&v=0234
+https://rawcdn.githack.com/CaptainCSS/waves-light-pn2aw/cdn/links/v0001/app.svg?authuser=72264191635&resourcekey=u1y5C9&usp=sharing&assignment_id=68580819678
+https://raw.githack.com/CaptainCSS/waves-light-pn2aw/cdn/public/v0001/new.svg?submission_id=89290&module_item_id=60&user_id=8&download=1
+https://raw.githubusercontent.com/CaptainCSS/waves-light-pn2aw/cdn/public/v0001/app.svg?id=237&key=237
+https://esm.sh/gh/CaptainCSS/waves-light-pn2aw@cdn/cdn/v0001/new.svg?usp=drive_web&authuser=753302536873&resourcekey=7ZRJBtld5&id=238
+https://raw.esm.sh/gh/CaptainCSS/waves-light-pn2aw@cdn/cdn/v0001/app.svg?id=239&edge=cf_b5ca9c&v=0239
+https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@edge/assets/v0001/new.svg?authuser=1&resourcekey=xDJPV1&usp=sharing&assignment_id=75
+https://fastly.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@edge/assets/v0001/app.svg?submission_id=7&module_item_id=19251279575&user_id=3744&download=1
+https://gcore.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@edge/dist/v0001/new.svg?id=242&key=242
+https://testingcf.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@edge/dist/v0001/app.svg?usp=drive_web&authuser=45152053419&resourcekey=aB2tUlMdE&id=243
+https://cdn.statically.io/gh/CaptainCSS/waves-light-pn2aw/edge/links/v0001/new.svg?id=244&edge=cf_ccdffc&v=0244
+https://rawcdn.githack.com/CaptainCSS/waves-light-pn2aw/edge/links/v0001/app.svg?authuser=3354351117&resourcekey=AfUzeT&usp=sharing&assignment_id=2768
+https://raw.githack.com/CaptainCSS/waves-light-pn2aw/edge/public/v0001/new.svg?submission_id=7892422&module_item_id=2&user_id=77256903&download=1
+https://raw.githubusercontent.com/CaptainCSS/waves-light-pn2aw/edge/public/v0001/app.svg?id=247&key=247
+https://esm.sh/gh/CaptainCSS/waves-light-pn2aw@edge/cdn/v0001/new.svg?usp=drive_web&authuser=6869&resourcekey=ddddddddd&id=248
+https://raw.esm.sh/gh/CaptainCSS/waves-light-pn2aw@edge/cdn/v0001/app.svg?id=249&edge=cf_e3f55d&v=0249
+https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@d705c7b026ac54f01dcce168eb8e607e4b5ba9bd/assets/v0001/new.svg?authuser=651849602398&resourcekey=DR5jxL&usp=sharing&assignment_id=10071433
+https://fastly.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@d705c7b026ac54f01dcce168eb8e607e4b5ba9bd/assets/v0001/app.svg?submission_id=8505&module_item_id=91057&user_id=385962&download=1
+https://gcore.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@d705c7b026ac54f01dcce168eb8e607e4b5ba9bd/dist/v0001/new.svg?id=252&key=252
+https://testingcf.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@d705c7b026ac54f01dcce168eb8e607e4b5ba9bd/dist/v0001/app.svg?usp=drive_web&authuser=45805&resourcekey=gPoXw5EdM&id=253
+https://cdn.statically.io/gh/CaptainCSS/waves-light-pn2aw/d705c7b026ac54f01dcce168eb8e607e4b5ba9bd/links/v0001/new.svg?id=254&edge=cf_fb0abd&v=0254
+https://rawcdn.githack.com/CaptainCSS/waves-light-pn2aw/d705c7b026ac54f01dcce168eb8e607e4b5ba9bd/links/v0001/app.svg?authuser=81248263218&resourcekey=Gtg3QD&usp=sharing&assignment_id=81941780042
+https://raw.githack.com/CaptainCSS/waves-light-pn2aw/d705c7b026ac54f01dcce168eb8e607e4b5ba9bd/public/v0001/new.svg?submission_id=43222815&module_item_id=680197855075&user_id=338&download=1
+https://raw.githubusercontent.com/CaptainCSS/waves-light-pn2aw/d705c7b026ac54f01dcce168eb8e607e4b5ba9bd/public/v0001/app.svg?id=257&key=257
+https://esm.sh/gh/CaptainCSS/waves-light-pn2aw@d705c7b026ac54f01dcce168eb8e607e4b5ba9bd/cdn/v0001/new.svg?usp=drive_web&authuser=537251477342&resourcekey=jrzHPX5dl&id=258
+https://raw.esm.sh/gh/CaptainCSS/waves-light-pn2aw@d705c7b026ac54f01dcce168eb8e607e4b5ba9bd/cdn/v0001/app.svg?id=259&edge=cf_12201e&v=0259
+https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@d705c7b/assets/v0001/new.svg?authuser=3&resourcekey=J5rN9v&usp=sharing&assignment_id=2952
+https://fastly.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@d705c7b/assets/v0001/app.svg?submission_id=7382781&module_item_id=50016029549&user_id=90087023605&download=1
+https://gcore.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@d705c7b/dist/v0001/new.svg?id=262&key=262
+https://testingcf.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@d705c7b/dist/v0001/app.svg?usp=drive_web&authuser=250961130776&resourcekey=m3Kr8PwdU&id=263
+https://cdn.statically.io/gh/CaptainCSS/waves-light-pn2aw/d705c7b/links/v0001/new.svg?id=264&edge=cf_29357e&v=0264
+https://rawcdn.githack.com/CaptainCSS/waves-light-pn2aw/d705c7b/links/v0001/app.svg?authuser=940024&resourcekey=MHCxsn&usp=sharing&assignment_id=61073771
+https://raw.githack.com/CaptainCSS/waves-light-pn2aw/d705c7b/public/v0001/new.svg?submission_id=2338233473&module_item_id=35975&user_id=1&download=1
+https://raw.githubusercontent.com/CaptainCSS/waves-light-pn2aw/d705c7b/public/v0001/app.svg?id=267&key=267
+https://esm.sh/gh/CaptainCSS/waves-light-pn2aw@d705c7b/cdn/v0001/new.svg?usp=drive_web&authuser=780616970&resourcekey=pFVbrHXdt&id=268
+https://raw.esm.sh/gh/CaptainCSS/waves-light-pn2aw@d705c7b/cdn/v0001/app.svg?id=269&edge=cf_404ade&v=0269
+https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@f4c9803b827544108c110b22ff11fda40a3bd492/assets/v0001/new.svg?authuser=4462&resourcekey=PjNhLf&usp=sharing&assignment_id=22630860889
+https://fastly.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@f4c9803b827544108c110b22ff11fda40a3bd492/assets/v0001/app.svg?submission_id=76586571&module_item_id=873199&user_id=606031&download=1
+https://gcore.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@f4c9803b827544108c110b22ff11fda40a3bd492/dist/v0001/new.svg?id=272&key=272
+https://testingcf.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@f4c9803b827544108c110b22ff11fda40a3bd492/dist/v0001/app.svg?usp=drive_web&authuser=1225610&resourcekey=sh6VKzod2&id=273
+https://cdn.statically.io/gh/CaptainCSS/waves-light-pn2aw/f4c9803b827544108c110b22ff11fda40a3bd492/links/v0001/new.svg?id=274&edge=cf_57603f&v=0274
+https://rawcdn.githack.com/CaptainCSS/waves-light-pn2aw/f4c9803b827544108c110b22ff11fda40a3bd492/links/v0001/app.svg?authuser=39877281&resourcekey=SVY147&usp=sharing&assignment_id=8562
+https://raw.githack.com/CaptainCSS/waves-light-pn2aw/f4c9803b827544108c110b22ff11fda40a3bd492/public/v0001/new.svg?submission_id=1497006&module_item_id=8298110&user_id=39061697&download=1
+https://raw.githubusercontent.com/CaptainCSS/waves-light-pn2aw/f4c9803b827544108c110b22ff11fda40a3bd492/public/v0001/app.svg?id=277&key=277
+https://esm.sh/gh/CaptainCSS/waves-light-pn2aw@f4c9803b827544108c110b22ff11fda40a3bd492/cdn/v0001/new.svg?usp=drive_web&authuser=4906315546&resourcekey=vThF3rPdB&id=278
+https://raw.esm.sh/gh/CaptainCSS/waves-light-pn2aw@f4c9803b827544108c110b22ff11fda40a3bd492/cdn/v0001/app.svg?id=279&edge=cf_6e759f&v=0279
+https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@f4c9803/assets/v0001/new.svg?authuser=321482223&resourcekey=Vx9LnZ&usp=sharing&assignment_id=59
+https://fastly.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@f4c9803/assets/v0001/app.svg?submission_id=28&module_item_id=47744&user_id=6524041&download=1
+https://gcore.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@f4c9803/dist/v0001/new.svg?id=282&key=282
+https://testingcf.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@f4c9803/dist/v0001/app.svg?usp=drive_web&authuser=77&resourcekey=yvspmjgda&id=283
+https://cdn.statically.io/gh/CaptainCSS/waves-light-pn2aw/f4c9803/links/v0001/new.svg?id=284&edge=cf_858b00&v=0284
+https://rawcdn.githack.com/CaptainCSS/waves-light-pn2aw/f4c9803/links/v0001/app.svg?authuser=566663&resourcekey=Y9kvGR&usp=sharing&assignment_id=5603
+https://raw.githack.com/CaptainCSS/waves-light-pn2aw/f4c9803/public/v0001/new.svg?submission_id=5493653&module_item_id=276970189&user_id=75424673473&download=1
+https://raw.githubusercontent.com/CaptainCSS/waves-light-pn2aw/f4c9803/public/v0001/app.svg?id=287&key=287
+https://esm.sh/gh/CaptainCSS/waves-light-pn2aw@f4c9803/cdn/v0001/new.svg?usp=drive_web&authuser=869875&resourcekey=B7D9FbHdJ&id=288
+https://raw.esm.sh/gh/CaptainCSS/waves-light-pn2aw@f4c9803/cdn/v0001/app.svg?id=289&edge=cf_9ca060&v=0289
+https://cdn.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@c0298da3304ba5d62d9daabe784f1d95b25e7c84/assets/v0001/new.svg?authuser=83&resourcekey=1LvfZJ&usp=sharing&assignment_id=5092
+https://fastly.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@c0298da3304ba5d62d9daabe784f1d95b25e7c84/assets/v0001/app.svg?submission_id=35513252709&module_item_id=95&user_id=45&download=1
+https://gcore.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@c0298da3304ba5d62d9daabe784f1d95b25e7c84/dist/v0001/new.svg?id=292&key=292
+https://testingcf.jsdelivr.net/gh/CaptainCSS/waves-light-pn2aw@c0298da3304ba5d62d9daabe784f1d95b25e7c84/dist/v0001/app.svg?usp=drive_web&authuser=53386&resourcekey=EJOTY38di&id=293
+https://cdn.statically.io/gh/CaptainCSS/waves-light-pn2aw/c0298da3304ba5d62d9daabe784f1d95b25e7c84/links/v0001/new.svg?id=294&edge=cf_b3b5c1&v=0294
+https://rawcdn.githack.com/CaptainCSS/waves-light-pn2aw/c0298da3304ba5d62d9daabe784f1d95b25e7c84/links/v0001/app.svg?authuser=774566&resourcekey=4nGZiB&usp=sharing&assignment_id=0
+https://raw.githack.com/CaptainCSS/waves-light-pn2aw/c0298da3304ba5d62d9daabe784f1d95b25e7c84/public/v0001/new.svg?submission_id=53322235051&module_item_id=8&user_id=4319912&download=1
+https://raw.githubusercontent.com/CaptainCSS/waves-light-pn2aw/c0298da3304ba5d62d9daabe784f1d95b25e7c84/public/v0001/app.svg?id=297&key=297
+https://esm.sh/gh/CaptainCSS/waves-light-pn2aw@c0298da3304ba5d62d9daabe784f1d95b25e7c84/cdn/v0001/new.svg?usp=drive_web&authuser=73&resourcekey=HlZDhVzdR&id=298
+https://raw.esm.sh/gh/CaptainCSS/waves-light-pn2aw@c0298da3304ba5d62d9daabe784f1d95b25e7c84/cdn/v0001/app.svg?id=299&edge=cf_cacb21&v=0299
